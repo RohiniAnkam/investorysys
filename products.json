@@ -1,0 +1,39 @@
+[
+  {
+    "productId": 1,
+    "productName": "Veg Rolls",
+    "description": "Good for Vegetarians",
+    "Stock": true
+  },
+  {
+    "productId": 2,
+    "productName": "Chicken Manchuria",
+    "description": "Preferred by Non Vegetarians",
+    "Stock": true
+  },
+  {
+    "productId": 3,
+    "productName": "Noodles",
+    "description": "Comes under Snacks",
+    "Stock": false
+  },
+  {
+    "productId": 4,
+    "productName": "Paneer Tikka",
+    "description": "Grilled cottage cheese",
+    "Stock": true
+  },
+  {
+    "productId": 5,
+    "productName": "Fried Rice",
+    "description": "Mixed vegetable rice",
+    "Stock": true
+  },
+  {},
+  {
+    "productId": 11,
+    "productName": "Samosa",
+    "description": "Crispy snack",
+    "Stock": true
+  }
+]
